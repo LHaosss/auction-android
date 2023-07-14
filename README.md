@@ -1,4 +1,4 @@
-# auction-
+# auction-android
 
 Android 开发-在 Android 里接入阿里云推流 SDK 实现直播推流的功能
 
